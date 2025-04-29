@@ -4,15 +4,15 @@ const mineflayer = require('mineflayer');
 const serverConfig = {
     host: 'nerdzone.gg',
     port: 25565,
-    username: 'Lardas', // Seu username
+    username: 'nick', // Seu username
     version: '1.8.9'
 };
 
 // Definindo a senha em uma variável separada
-const password = 'wilkergms,6666';
+const password = 'Sua senha';
 
 // Definindo o comando de party
-const partyCommand = '/home spawner';
+const partyCommand = '/home suahome';
 
 // Função para configurar os eventos do bot
 function configurarBot(bot) {
