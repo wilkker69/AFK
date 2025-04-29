@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "mineflayer": "^4.27.0"
-  }
+  },
+  "name": "afkpesca",
+  "version": "1.0.0",
+  "description": "\"# Pesca\"",
+  "main": "antiafk.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilkker69/Pesca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilkker69/Pesca/issues"
+  },
+  "homepage": "https://github.com/wilkker69/Pesca#readme"
 }
